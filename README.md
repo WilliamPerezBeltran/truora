@@ -1,5 +1,5 @@
 # truora
-\n puede encontrar las pruebas de truora  \n
+\npruebas de truora  \n
 Pruebas de truora:
 copy_writer_role
 product_developer_evangelist_role
